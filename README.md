@@ -5,7 +5,7 @@
 http://haesookim.info/MindScope/index.html
 
 
-# MindScope stress prediction model part (Pilot study)
+# MindScope stress prediction model part (pilot study)
 
 Stress prediction model DB
 
