@@ -2,10 +2,12 @@
 
 ![image](https://user-images.githubusercontent.com/41329661/94653004-d795c980-0335-11eb-926e-f353a9c33668.png)
 
+http://haesookim.info/MindScope/index.html
 
-# MindScope Stress Prediction Model (Pilot study)
 
-stress prediction model DB
+# MindScope stress prediction model part (Pilot study)
+
+Stress prediction model DB
 
 ![image](https://user-images.githubusercontent.com/41329661/94652446-fe9fcb80-0334-11eb-9c0b-02be2f745c08.png)
 
