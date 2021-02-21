@@ -1,4 +1,4 @@
-# 업데이트 예정 내용
+# 업데이트 예정 내용 (21.02.28)
 1. Data type 변경 (byte)
 2. Upsamling method 적용
 3. Step 1, Step 2 절대 시간으로 통일
