@@ -1,3 +1,9 @@
+# 업데이트 예정 내용
+1. Data type 변경 (byte)
+2. Upsamling method 적용
+3. Step 1, Step 2 절대 시간으로 통일
+
+
 # MindScope 연구 소개
 
 ![image](https://user-images.githubusercontent.com/41329661/94653004-d795c980-0335-11eb-926e-f353a9c33668.png)
